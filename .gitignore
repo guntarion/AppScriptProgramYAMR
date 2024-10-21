@@ -1,0 +1,44 @@
+# Ignore all .gs files in the root directory
+/*.gs
+
+# Ignore all files and folders in the 'lib' directory
+/lib/
+
+# Ignore all .json files
+*.json
+
+# Ignore all .json.lock files
+*.json.lock
+
+# Ignore all .lock-wscript files
+*.lock-wscript
+
+# Ignore all .log files
+*.log
+
+# Ignore all .swp files
+*.swp
+
+# Ignore all .swp files in the 'test' directory
+/test/*.swp
+
+# Ignore all .bak files
+*.bak
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all .cache files
+*.cache
+
+# Ignore all .DS_Store files
+.DS_Store
+
+# Ignore all .idea directory
+.idea/
+
+# Ignore all .vscode directory
+.vscode/
+
+# Ignore all node_modules directory
+node_modules/
